@@ -1,7 +1,7 @@
 name: 部署博客
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   workflow_dispatch:
 permissions:
   contents: read
@@ -28,6 +28,6 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}“
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/deploy-pages@v4
