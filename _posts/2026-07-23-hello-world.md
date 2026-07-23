@@ -1,4 +1,4 @@
-```markdown                                                                    
+                                                                   
    ---                                                                          
    layout: post                                                                 
    title: "Hello World！我的第一篇博客"                                         
@@ -9,5 +9,4 @@
                                                                                 
    这是我的第一篇博客文章 🎉                                                    
                                                                                 
-   > 这里可以写 Markdown 内容啦～                                               
- ```        
+   > 这里可以写 Markdown 内容啦～                                                   
