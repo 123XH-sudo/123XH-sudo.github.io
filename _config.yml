@@ -5,7 +5,7 @@
    url: "https://123XH-sudo.github.io"                                          
                                                                                 
    # 主题！这是关键                                                             
-   remote_theme: mmistakes/minimal-mistakes                                     
+   remote_theme: "mmistakes/minimal-mistakes@4.21.0"                                     
    minimal_mistakes_skin: default                                               
                                                                                 
    plugins:                                                                     
